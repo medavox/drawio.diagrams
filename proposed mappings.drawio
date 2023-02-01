@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-21T10:37:45.030Z" agent="5.0 (X11)" etag="lXprbEu7gf7jUxdC8GD4" version="20.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-01T01:12:27.109Z" agent="5.0 (X11)" etag="ZoFl8DID242gkADUvXAh" version="20.8.14" type="github">
   <diagram id="YbkainP55hzanAraKQav" name="Page-1">
     <mxGraphModel dx="1242" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,7 +78,7 @@
         <mxCell id="5fgYvhCfNTWPp-rmczzZ-20" value="j" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="210" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5fgYvhCfNTWPp-rmczzZ-42" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="5fgYvhCfNTWPp-rmczzZ-23" target="5fgYvhCfNTWPp-rmczzZ-4" edge="1">
+        <mxCell id="5fgYvhCfNTWPp-rmczzZ-42" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="5fgYvhCfNTWPp-rmczzZ-23" target="5fgYvhCfNTWPp-rmczzZ-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="650" y="725.5" as="targetPoint" />
           </mxGeometry>
@@ -174,11 +174,17 @@
         <mxCell id="iZXNnLEXLb7nlVbUgUFV-5" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.trashcan;" parent="1" vertex="1">
           <mxGeometry x="840" y="20" width="24" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GTz973H2v1kcNFxzBQoP-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap/16/braces-asterisk-128.png" parent="1" vertex="1">
-          <mxGeometry x="370" y="430" width="128" height="128" as="geometry" />
-        </mxCell>
         <mxCell id="GTz973H2v1kcNFxzBQoP-4" value="NEW" style="dashed=0;html=1;rounded=1;strokeColor=#6554C0;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fontColor=#6554C0" parent="1" vertex="1">
           <mxGeometry x="680" y="960" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hGj3xvj4yGpbjQCEN98F-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hGj3xvj4yGpbjQCEN98F-1" target="hGj3xvj4yGpbjQCEN98F-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hGj3xvj4yGpbjQCEN98F-1" value="qu[ie]" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hGj3xvj4yGpbjQCEN98F-2" value="k" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
