@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T15:37:50.832Z" agent="5.0 (Macintosh)" version="20.8.5" etag="MS06gVRT7cvQvGDXkfJs" type="github"><diagram id="HjVJZ56HJgPQ5Ly1HZKL">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-24T15:41:25.240Z" agent="5.0 (Macintosh)" version="20.8.5" etag="14FqQUO6oDMSVq1YtRFL" type="github">
+  <diagram id="81Ew6ep_INIa3zHuVZqw" name="Page-1">
+    <mxGraphModel dx="1434" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TxX2gqwojOcQ7HW4MR1k-1" value="&lt;div&gt;TV&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.tv;" vertex="1" parent="1">
+          <mxGeometry x="250" y="140" width="59" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="TxX2gqwojOcQ7HW4MR1k-2" value="Switch" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/super-batman/24/3151575_-_game_logo_nintendo_switch_video-128.png" vertex="1" parent="1">
+          <mxGeometry x="560" y="150" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="TxX2gqwojOcQ7HW4MR1k-3" value="Steam Deck" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/steam-square-128.png" vertex="1" parent="1">
+          <mxGeometry x="206" y="330" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="TxX2gqwojOcQ7HW4MR1k-7" value="TV PC" style="shape=mxgraph.cisco.computers_and_peripherals.ibm_mainframe;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="370" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TxX2gqwojOcQ7HW4MR1k-8" value="" style="strokeWidth=2;outlineConnect=0;dashed=0;align=center;fontSize=8;fillColor=#c0f5a9;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.eip.splitter;" vertex="1" parent="1">
+          <mxGeometry x="500" y="350" width="150" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
