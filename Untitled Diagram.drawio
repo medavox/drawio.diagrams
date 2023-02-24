@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T16:22:05.121Z" agent="5.0 (Macintosh)" version="20.8.5" etag="So3KVZ_n7o7Vr0a7sEpw" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-24T16:22:39.731Z" agent="5.0 (Macintosh)" version="20.8.5" etag="Im6roocHqj1WGcyq-vgE" type="github">
   <diagram id="81Ew6ep_INIa3zHuVZqw" name="Page-1">
     <mxGraphModel dx="2390" dy="1328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,9 +28,6 @@
           <mxGeometry x="0.1889" relative="1" as="geometry">
             <mxPoint x="-5" y="-13" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="TxX2gqwojOcQ7HW4MR1k-3" value="Steam Broadcast?" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/font-awesome/1792/steam-square-128.png" vertex="1" parent="1">
-          <mxGeometry x="440" y="900" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TxX2gqwojOcQ7HW4MR1k-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TxX2gqwojOcQ7HW4MR1k-7" target="TxX2gqwojOcQ7HW4MR1k-10">
           <mxGeometry relative="1" as="geometry" />
@@ -179,9 +176,6 @@
         </mxCell>
         <mxCell id="TxX2gqwojOcQ7HW4MR1k-80" value="&lt;div&gt;Discord Voice Chat&lt;/div&gt;&lt;div&gt;Audio Source&lt;br&gt;&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-mic-a-128.png;dashed=1;strokeWidth=0;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1162.5" y="585" width="65" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="TxX2gqwojOcQ7HW4MR1k-91" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;strokeWidth=0;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="325" y="850" width="285" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
