@@ -207,6 +207,9 @@
         <mxCell id="qu0nNaPlwtPZptSTdnUQ-20" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.technology_icons.icon7;" vertex="1" parent="1">
           <mxGeometry x="397" y="310" width="34.5" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="qu0nNaPlwtPZptSTdnUQ-21" value="" style="shape=image;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiMwMDAwMDAiIGNsYXNzPSJiaSBiaS1wYyIgdmlld0JveD0iMCAwIDE2IDE2IiBpZD0iUGMtLVN0cmVhbWxpbmUtQm9vdHN0cmFwIiBoZWlnaHQ9IjE2IiB3aWR0aD0iMTYiPgogIDxkZXNjPgogICAgUGMgU3RyZWFtbGluZSBJY29uOiBodHRwczovL3N0cmVhbWxpbmVocS5jb20KICA8L2Rlc2M+CiAgPHBhdGggZD0iTTUgMGExIDEgMCAwIDAgLTEgMXYxNGExIDEgMCAwIDAgMSAxaDZhMSAxIDAgMCAwIDEgLTFWMWExIDEgMCAwIDAgLTEgLTF6bTAuNSAxNGEwLjUgMC41IDAgMSAxIDAgMSAwLjUgMC41IDAgMCAxIDAgLTFtMiAwYTAuNSAwLjUgMCAxIDEgMCAxIDAuNSAwLjUgMCAwIDEgMCAtMU01IDEuNWEwLjUgMC41IDAgMCAxIDAuNSAtMC41aDVhMC41IDAuNSAwIDAgMSAwIDFoLTVhMC41IDAuNSAwIDAgMSAtMC41IC0wLjVNNS41IDNoNWEwLjUgMC41IDAgMCAxIDAgMWgtNWEwLjUgMC41IDAgMCAxIDAgLTEiIHN0cm9rZS13aWR0aD0iMSI+PC9wYXRoPgo8L3N2Zz4=;" vertex="1" parent="1">
+          <mxGeometry x="428" y="432.5" width="120" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
